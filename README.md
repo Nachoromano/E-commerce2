@@ -42,4 +42,4 @@
 |<hr>|
 |<p>Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.</p>|
 |<hr>|
-|<b>https://romashop.netlify.app</b>|
+|https://romashop.netlify.app|
